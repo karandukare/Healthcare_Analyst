@@ -91,4 +91,4 @@ The project is designed to be beginner-friendly and easy to extend with addition
 - LinkedIn: [https://www.linkedin.com/in/karandukare/](https://www.linkedin.com/in/karandukare/)
 - GitHub: [https://github.com/karandukare](https://github.com/karandukare)
 - Email: [karandukare23@gamil.com](mailto:karandukare23@gamil.com)
-- Portfolio: [https://karan-dukare-data-analys-yz7rj1t.gamma.sit](https://karan-dukare-data-analys-yz7rj1t.gamma.sit)
+- Portfolio: [https://karan-dukare-data-analys-yz7rj1t.gamma.sit](https://karan-dukare-data-analys-yz7rj1t.gamma.site/)
